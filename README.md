@@ -62,9 +62,10 @@ Metinler:
 - Gensim ile LDA modeli kuruldu
 - pyLDAvis ile etkileşimli konu haritası üretildi.
 
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/d4b44cae-c454-4658-90a3-e6beab14d261" />
 
   
-##Görsel Örnekler
+## Görsel Örnekler
 
 ## Yıllara Göre Makale Sayısı
 
